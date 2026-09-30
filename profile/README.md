@@ -233,6 +233,13 @@ browser tab. On-premise deployment is available for teams that cannot send files
 Building on top of ForgeFile, or need a format we do not list yet?
 [Tell us](https://forgefile.com/contact) — format coverage is driven by what people ask for.
 
+**Open source**
+
+- [forgefile-python](https://github.com/ForgeFile/forgefile-python): Python client for the ForgeFile REST API.
+- [forgefile-roundtrip](https://github.com/ForgeFile/forgefile-roundtrip): offline checks that a translated
+  XLIFF, PO, RESX, JSON or YAML file came back structurally intact. Works with output from any
+  translation tool, runs locally, MIT licensed.
+
 ---
 
 ## Privacy
